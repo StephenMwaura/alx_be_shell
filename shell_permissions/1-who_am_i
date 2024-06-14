@@ -1,2 +1,2 @@
- #!/bin/bash
+#!/bin/bash
 ./get_file_owner.sh 1-who_am_i
